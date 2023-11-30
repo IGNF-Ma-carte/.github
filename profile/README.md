@@ -70,7 +70,7 @@ See [developping](https://github.com/IGNF-Ma-carte/.github/blob/main/DEVELOPING.
 ## ⚖️ License
 
 ![fr](https://github.com/IGNF-Ma-carte/.github/assets/7868217/5c3e79f3-43af-4f36-93fd-a46bb4def0a4)
-Cet organisation est dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
+Cet organisation est dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr).   
 Les bibliothèques Javascript sont, pour la plupart, sous licence MIT et les applications sous GPL-3.
 Reportez-vous à chaque dépôt pour plus d'informations.
 
