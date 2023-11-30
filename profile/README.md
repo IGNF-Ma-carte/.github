@@ -5,18 +5,22 @@
 [![](https://img.shields.io/badge/open%20source-Wikidata-firebrick)](https://www.wikidata.org/wiki/Q122584745)    
 [![mcv4](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/vsptn6/main&style=flat&logo=cypress)](https://cloud.cypress.io/projects/vsptn6/runs)
 
+![fr](https://github.com/IGNF-Ma-carte/.github/assets/7868217/5c3e79f3-43af-4f36-93fd-a46bb4def0a4)
 Espace dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
+
+![en](https://github.com/IGNF-Ma-carte/.github/assets/7868217/de643075-28eb-41d0-83ae-9089472c3ac6)
+This organization aims to promote the open source and publish online mapping and storymap tools ([Ma carte](https://macarte.ign.fr/) developped by [IGN-France](https://github.com/IGNF).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IGNF-Ma-carte/.github/main/img/macarte.png" width=600 />
 </p>
 
-This organization aims to promote the open source and publish online mapping and storymap tools ([Ma carte](https://macarte.ign.fr/) developped by [IGN-France](https://github.com/IGNF).
-
 ## 💬 Besoins d'aide ou poser une question
 
+![fr](https://github.com/IGNF-Ma-carte/.github/assets/7868217/5c3e79f3-43af-4f36-93fd-a46bb4def0a4)
 Utiliser l'[espace de discussion](https://github.com/orgs/IGNF-Ma-carte/discussions) pour poser une question ou faire remontée de nouvelles idées.
 
+![en](https://github.com/IGNF-Ma-carte/.github/assets/7868217/de643075-28eb-41d0-83ae-9089472c3ac6)
 Use the [discussions](https://github.com/orgs/IGNF-Ma-carte/discussions) to ask for help, answer questions, and share ideas.
 
 ## 📺 Main modules
@@ -65,20 +69,23 @@ See [developping](https://github.com/IGNF-Ma-carte/.github/blob/main/DEVELOPING.
 
 ## ⚖️ License
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png) Cet organisation est dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
+![fr](https://github.com/IGNF-Ma-carte/.github/assets/7868217/5c3e79f3-43af-4f36-93fd-a46bb4def0a4)
+Cet organisation est dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
 Les bibliothèques Javascript sont, pour la plupart, sous licence MIT et les applications sous GPL-3.
 Reportez-vous à chaque dépôt pour plus d'informations.
 
 **Important** : Veuillez noter que les logos, images et éléments graphiques associés à l'IGN ou à la République française, présents dans ce projet, sont protégés par le droit d'auteur et ne sont pas couverts par la licence open source du code. 
 L'utilisation de ces éléments est soumise aux lois et réglementations applicables et doit être effectuée dans le respect des droits et autorisations accordés par les propriétaires respectifs.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/25px-Flag_of_the_United_Kingdom_%283-5%29.svg.png) This organization aims to promote the open source and online [mapping tools](https://macarte.ign.fr/) and services developed by [IGN-France](https://www.ign.fr).   
+![en](https://github.com/IGNF-Ma-carte/.github/assets/7868217/de643075-28eb-41d0-83ae-9089472c3ac6)
+This organization aims to promote the open source and online [mapping tools](https://macarte.ign.fr/) and services developed by [IGN-France](https://www.ign.fr).   
 Library repo are mostly under MIT license and app repo under GPL-3.   
 Refer to each repository for more information.
 
 **Important notice** : Please note that the logos, images and graphic elements associated with IGN and the French Republic, present in this project, are protected by copyright and are not covered by the open source licence of this code. The use of these elements is subject to applicable laws and regulations and must be carried out in compliance with the rights and permissions granted by the respective owners
 
-* [Consulter la fiche sur le SILL](https://code.gouv.fr/sill/detail?name=Ma%20carte)
-* [Consulter la fiche du Comptoir du Libre](https://comptoir-du-libre.org/fr/softwares/647)
-* [Consulter la fiche de Wikidata](https://www.wikidata.org/wiki/Q122584745)
-
+|||
+|:---:|---|
+| ![image](https://github.com/IGNF-Ma-carte/.github/assets/7868217/54fa16b2-a77c-470b-bdf6-9110cc9dedf6) | [Consulter la fiche sur le SILL](https://code.gouv.fr/sill/detail?name=Ma%20carte) |
+|![](https://github.com/IGNF-Ma-carte/.github/assets/7868217/1074a8a0-b578-449d-a5d2-a2ab2862de68) | [Consulter la fiche de Wikidata](https://www.wikidata.org/wiki/Q122584745) |
+| ![image](https://github.com/IGNF-Ma-carte/.github/assets/7868217/9467ce9d-bf45-4472-b773-9658de27059c) | [Consulter la fiche du Comptoir du Libre](https://comptoir-du-libre.org/fr/softwares/647) |
