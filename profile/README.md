@@ -32,7 +32,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 * [🗚 FontIGN](https://ignf-ma-carte.github.io/font-ign/)
 * [🎨 assets for maps](https://ignf-ma-carte.github.io/mcassets/)
 * [🛠️ MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test online](https://ignf-ma-carte.github.io/mcutils/) - [📚 documentation](https://ignf-ma-carte.github.io/mcutils/doc/)
-* [![](https://avatars.githubusercontent.com/u/7658037?s=15) Swagger de l'API](https://macarte-qualif.ign.fr/api)
+* [![](https://avatars.githubusercontent.com/u/7658037?s=15) Swagger de l'API](https://qlf-+macarte.ign.fr/api)
 * [🖼️ iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
 * Exemples :
   * [![](https://avatars.githubusercontent.com/u/30080011?s=17) Observable iFrameAPI](https://observablehq.com/search?query=iFrameAPI&creator=viglino)
