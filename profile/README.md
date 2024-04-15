@@ -31,7 +31,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 
 * [🗚 FontIGN](https://ignf-ma-carte.github.io/font-ign/)
 * [🎨 assets for maps](https://ignf-ma-carte.github.io/mcassets/)
-* [🛠️ MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test online](https://ignf-ma-carte.github.io/mcutils/) - [📚 documentation](https://ignf-ma-carte.github.io/mcutils/doc/)
+* [🛠️ MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test online](https://ignf-ma-carte.github.io/mcutils/) - [📚 documentation](https://ignf-ma-carte.github.io/mcutils/doc/) 
 * [![](https://avatars.githubusercontent.com/u/7658037?s=15) Swagger de l'API](https://qlf-macarte.ign.fr/api)
 * [🖼️ iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
 * Exemples :
@@ -44,8 +44,8 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 ⚠️ WARNING    
 Alpha-test app includes new features and may be inconstant.
 ```
-| Repository | test ||
-|------------|:----:|:---:|
+| Repository | test | Release | Date |
+|------------|:----:|:-------:|:----:|
 |[👮 Mon compte](https://github.com/IGNF-Ma-carte/mcuser) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcuser/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcuser) | ![](https://img.shields.io/github/release-date/IGNF-Ma-carte/mcuser) |
 | [🗺️ Atlas](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcatlas) | ![](https://img.shields.io/github/release-date/IGNF-Ma-carte/mcatlas) |
 | [👨 Utilisateur](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/user.html?user=Lambda_wq6P) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcatlas) | ![](https://img.shields.io/github/release-date/IGNF-Ma-carte/mcatlas) |
