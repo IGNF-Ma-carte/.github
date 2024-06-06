@@ -55,6 +55,7 @@ Alpha-test app includes new features and may be inconstant.
 | [✉️ Mes adresses](https://github.com/IGNF-Ma-carte/mcaddresses) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcaddresses/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcaddresses) | ![](https://img.shields.io/github/release-date/IGNF-Ma-carte/mcaddresses) |
 | [📊 Mes statistiques](https://github.com/IGNF-Ma-carte/mcstatistic) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcstatistic/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcstatistic) | ![](https://img.shields.io/github/release-date/IGNF-Ma-carte/mcstatistic) |
 | [👥 Mes equipes](https://github.com/IGNF-Ma-carte/mcteams) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcteams/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcteams) | ![](https://img.shields.io/github/release-date/IGNF-Ma-carte/mctemas) |
+| [📝 Editorial](https://github.com/IGNF-Ma-carte/mceditorial) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mceditorial/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mceditorial) | ![](https://img.shields.io/github/release-date/IGNF-Ma-carte/mceditorial) |
 
 ### Futur modules
 
