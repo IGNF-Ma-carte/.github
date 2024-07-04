@@ -37,6 +37,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 * Exemples :
   * [![](https://avatars.githubusercontent.com/u/30080011?s=17) Observable iFrameAPI](https://observablehq.com/search?query=iFrameAPI&creator=viglino)
   * [iFrameAPI exemple](https://codepen.io/viglino/pen/GRMwQZx)
+  * [IFrame-API font-family](https://codepen.io/viglino/pen/vYqByOL)
 
 ### 🧪 Alpha-Test instance on Github
 
