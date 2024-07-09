@@ -44,7 +44,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 
 ```alert
 ⚠️ WARNING    
-Alpha-test app includes new features and may be inconstant.
+Alpha-test app includes new features and may be inconsistent.
 ```
 | Repository | test | Release | Date |
 |------------|:----:|:-------:|:----:|
