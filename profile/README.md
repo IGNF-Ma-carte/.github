@@ -39,6 +39,8 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
   * [Codepen](https://codepen.io/collection/QWRYLY)
     * [iFrameAPI exemple](https://codepen.io/viglino/pen/GRMwQZx)
     * [IFrame-API font-family](https://codepen.io/viglino/pen/vYqByOL)
+   
+* [😼 le chatbot Ma carte !](https://ignf-ma-carte.github.io/chatbot/) - [Accéder au projet](https://github.com/IGNF-Ma-carte/chatbot)
 
 ### 🧪 Alpha-Test instance on Github
 
