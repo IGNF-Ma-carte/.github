@@ -33,12 +33,13 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 * [🎨 assets for maps](https://ignf-ma-carte.github.io/mcassets/)
 * [🛠️ MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test online](https://ignf-ma-carte.github.io/mcutils/) - [📚 documentation](https://ignf-ma-carte.github.io/mcutils/doc/) 
 * [![](https://avatars.githubusercontent.com/u/7658037?s=15) Swagger de l'API](https://qlf-macarte.ign.fr/api)
-* [🖼️ iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
-* Exemples :
-  * [![](https://avatars.githubusercontent.com/u/30080011?s=17) Observable iFrameAPI](https://observablehq.com/search?query=iFrameAPI&creator=viglino)
-  * [Codepen](https://codepen.io/collection/QWRYLY)
-    * [iFrameAPI exemple](https://codepen.io/viglino/pen/GRMwQZx)
-    * [IFrame-API font-family](https://codepen.io/viglino/pen/vYqByOL)
+* 🖼️ iFrameAPI
+  * [iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
+  * Exemples :
+    * [![](https://avatars.githubusercontent.com/u/30080011?s=17) Observable iFrameAPI](https://observablehq.com/search?query=iFrameAPI&creator=viglino)
+    * [Codepen](https://codepen.io/collection/QWRYLY)
+      * [iFrameAPI exemple](https://codepen.io/viglino/pen/GRMwQZx)
+      * [IFrame-API font-family](https://codepen.io/viglino/pen/vYqByOL)
    
 * [😼 le chatbot Ma carte !](https://ignf-ma-carte.github.io/chatbot/) - [Repository du chatbot](https://github.com/IGNF-Ma-carte/chatbot)
 
